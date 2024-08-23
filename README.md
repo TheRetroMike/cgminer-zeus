@@ -8,7 +8,7 @@ For general CGMiner information refer to doc/README.
 
 ##Quick RPI Installation
 ```
-curl -o- -k https://raw.githubusercontent.com/TheRetroMike/VerusCliMining/main/install.sh | bash
+curl -o- -k https://raw.githubusercontent.com/TheRetroMike/cgminer-zeus/main/rpi-installer.sh | bash
 ```
 
 ### LKETC usb miner ###
