@@ -6,6 +6,11 @@ This file describes Lketc-specific settings and options.
 
 For general CGMiner information refer to doc/README.
 
+##Quick RPI Installation
+```
+curl -o- -k https://raw.githubusercontent.com/TheRetroMike/VerusCliMining/main/install.sh | bash
+```
+
 ### LKETC usb miner ###
 This code is forked from original cgminer-dmaxl-zeus.
 
